@@ -1,0 +1,17 @@
+/* This is a comment! */
+
+/*CSS Syntax:
+
+Selectors {
+  property: value;
+  property: value:
+}
+
+*/
+
+/* Typer selector */
+
+p {/*select all <p> */
+  font-size: 1em;
+  line-height: 1.5em
+}
